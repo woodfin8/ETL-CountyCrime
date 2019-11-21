@@ -16,9 +16,9 @@ The following dependencies are used:
 
 A config.py file is used to store api_keys and passwords. This is stored in the local repo and is referenced in the .gitignore file. 
 api_keys and passwords are stored under the following variables:
-api_key = "your_census_api_key"
-fbi_key = "your_fbi_crime_api_key"
-pword = "your postgreSQL password"
+1. api_key = "your_census_api_key"
+2. fbi_key = "your_fbi_crime_api_key"
+3. pword = "your postgreSQL password"
 
 ## Extraction
 County level economic and demographic data for NJ is extracted from the US Census Data API. 
