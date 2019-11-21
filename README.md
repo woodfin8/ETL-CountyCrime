@@ -22,14 +22,15 @@ api_keys and passwords are stored under the following variables:
 
 ## Extraction
 County level economic and demographic data for NJ is extracted from the US Census Data API. 
-A full list of Census datasets is available at https://api.census.gov/data.html
-Census api keys can be requested at https://api.census.gov/data/key_signup.html
+*A full list of Census datasets is available at https://api.census.gov/data.html
+*Census api keys can be requested at https://api.census.gov/data/key_signup.html
 
-Reported crimes are extracted from the FBI's Crime Data API at  https://crime-data-explorer.fr.cloud.gov/api
-FBI api keys can be requested at https://api.data.gov/signup/
+Reported crimes are extracted from the FBI's Crime Data API
+*A full list of crime datasets is available at https://crime-data-explorer.fr.cloud.gov/api
+*FBI api keys can be requested at https://api.data.gov/signup/
 
-The requests and json dependencies are used to grab the API json objects which are then read into pandas dataframes
-The FBI "offense" data is also paginated which required a nested for loop to run through each page for each offense. Please note this request will take about 15 minutes as it loops through 300 pages of API data. 
+The requests and json dependencies are used to grab the API json objects which are then read into pandas dataframes.
+The FBI "offense" data is paginated which required a nested for loop to run through each page for each offense. Please note this request will take about 15 minutes as it loops through 300 pages of API data. 
 
 ## Transformation
 Census data only required some small clean-up and re-naming of the header row. str.rstrip() is used to clean-up the county names.
@@ -41,5 +42,5 @@ The agency and crime data frames are merged and then put in a pivot table to get
 
 ## Loading
 The two resulting dataframes from the Census and FBI API's are loaded to a PostgreSQL database using sqlalchemy's create_engine.
-A sample SQL JOIN is run at the end of the Jupyter Notebook
+A sample SQL JOIN is run at the end of the Jupyter Notebook.
 
