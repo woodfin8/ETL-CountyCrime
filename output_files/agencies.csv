@@ -1,0 +1,577 @@
+,agency_name,county_name,ori
+0,Bayonne Police Department,HUDSON,NJ0090100
+1,Orange Police Department,ESSEX,NJ0071700
+2,Long Beach Township Police Department,OCEAN,NJ0151700
+3,Midland Park Police Department,BERGEN,NJ0023500
+4,Saddle River Police Department,BERGEN,NJ0025800
+5,East Rutherford Police Department,BERGEN,NJ0021200
+6,East Greenwich Township Police Department,GLOUCESTER,NJ0080300
+7,Pitman Police Department,GLOUCESTER,NJ0081500
+8,Mendham Township Police Department,MORRIS,NJ0141900
+9,State Police: Middlesex County,MIDDLESEX,NJ012SP00
+10,Haledon Police Department,PASSAIC,NJ0160300
+11,Linwood Police Department,ATLANTIC,NJ0011400
+12,Medford Township Police Department,BURLINGTON,NJ0032100
+13,State Police: Camden County,CAMDEN,NJ004SP00
+14,Hillsborough Township Police Department,SOMERSET,NJ0181000
+15,Tewksbury Township Police Department,HUNTERDON,NJ0102400
+16,Rutgers University: New Brunswick,MIDDLESEX,NJ0123000
+17,East Orange Police Department,ESSEX,NJ0070600
+18,South Toms River Police Department,OCEAN,NJ0152900
+19,Brick Township Police Department,OCEAN,NJ0150600
+20,Paramus Police Department,BERGEN,NJ0024600
+21,Wood-Ridge Police Department,BERGEN,NJ0026900
+22,Prosecutor: Sussex County,SUSSEX,NJ0198900
+23,Hackensack Police Department,BERGEN,NJ0022300
+24,Salem Police Department,SALEM,NJ0171200
+25,Bergen County Sheriff's Office,BERGEN,NJ0020000
+26,Somerdale Police Department,CAMDEN,NJ0043100
+27,Elk Township Police Department,GLOUCESTER,NJ0080400
+28,Red Bank Police Department,MONMOUTH,NJ0134000
+29,Denville Township Police Department,MORRIS,NJ0140800
+30,Wayne Township Police Department,PASSAIC,NJ0161400
+31,State Police: Sussex County,SUSSEX,NJ019SP00
+32,Atlantic City Police Department,ATLANTIC,NJ0010200
+33,Delran Township Police Department,BURLINGTON,NJ0031000
+34,Brielle Police Department,MONMOUTH,NJ0130900
+35,Monmouth University,MONMOUTH,NJ013559E
+36,Nutley Township Police Department,ESSEX,NJ0071600
+37,Prosecutor: Camden County,CAMDEN,NJ0048900
+38,Hudson County Sheriff's Office,HUDSON,NJ0090000
+39,Sea Isle City Police Department,CAPE MAY,NJ0050900
+40,South Hackensack Township Police Department,BERGEN,NJ0025900
+41,Montvale Police Department,BERGEN,NJ0023600
+42,Edgewater Police Department,BERGEN,NJ0021300
+43,Little Egg Harbor Township Police Department,OCEAN,NJ0151600
+44,Elmer Police Department,SALEM,NJ0170200
+45,Deptford Township Police Department,GLOUCESTER,NJ0080200
+46,Laurel Springs Police Department,CAMDEN,NJ0042000
+47,Union Beach Police Department,MONMOUTH,NJ0135000
+48,Mendham Police Department,MORRIS,NJ0141800
+49,Prosecutor: Mercer County,MERCER,NJ0118900
+50,Hawthorne Police Department,PASSAIC,NJ0160400
+51,Longport Police Department,ATLANTIC,NJ0011500
+52,"Fairfield Township, Essex County Police Department",ESSEX,NJ0070400
+53,Medford Lakes Police Department,BURLINGTON,NJ0032200
+54,Manville Police Department,SOMERSET,NJ0181100
+55,West New York Police Department,HUDSON,NJ0091200
+56,Montclair State University,ESSEX,NJ0072800
+57,Cedar Grove Township Police Department,ESSEX,NJ0070500
+58,Park Ridge Police Department,BERGEN,NJ0024700
+59,Harrington Park Police Department,BERGEN,NJ0022400
+60,Ship Bottom Police Department,OCEAN,NJ0152800
+61,Berkeley Township Police Department,OCEAN,NJ0150500
+62,Carney's Point Township Police Department,SALEM,NJ0171300
+63,Allendale Police Department,BERGEN,NJ0020100
+64,Stratford Police Department,CAMDEN,NJ0043200
+65,Paulsboro Police Department,GLOUCESTER,NJ0081400
+66,Rowan University,GLOUCESTER,NJ0082600
+67,Chester Township Police Department,MORRIS,NJ0140700
+68,West Milford Township Police Department,PASSAIC,NJ0161500
+69,Brigantine Police Department,ATLANTIC,NJ0010300
+70,State Police: Union County,UNION,NJ020SP00
+71,Eastampton Township Police Department,BURLINGTON,NJ0031100
+72,Somerset County Sheriff's Office,SOMERSET,NJ0180000
+73,South Brunswick Township Police Department,MIDDLESEX,NJ0122100
+74,Emerson Police Department,BERGEN,NJ0021400
+75,"Franklin Township, Hunterdon County Police Department",HUNTERDON,NJ0101000
+76,Ocean City Police Department,CAPE MAY,NJ0050800
+77,Moonachie Police Department,BERGEN,NJ0023700
+78,Elsinboro Township Police Department,SALEM,NJ0170300
+79,Hackettstown Police Department,WARREN,NJ0210800
+80,Clayton Police Department,GLOUCESTER,NJ0080100
+81,Woolwich Township Police Department,GLOUCESTER,NJ0082400
+82,Lawnside Police Department,CAMDEN,NJ0042100
+83,Moorestown Township Police Department,BURLINGTON,NJ0032300
+84,West Long Branch Police Department,MONMOUTH,NJ0135300
+85,Margate City Police Department,ATLANTIC,NJ0011600
+86,Little Falls Township Police Department,PASSAIC,NJ0160500
+87,Mercer County Sheriff's Office,MERCER,NJ0110000
+88,State Police,N/A,NJNSP2200
+89,Caldwell Police Department,ESSEX,NJ0070300
+90,State Police: Monmouth County,MONMOUTH,NJ013SP00
+91,Burlington County Sheriff's Office,BURLINGTON,NJ0030000
+92,Tavistock Police Department,CAMDEN,NJ0043300
+93,Weehawken Township Police Department,HUDSON,NJ0091100
+94,New Jersey Institute of Technology,ESSEX,NJ0072700
+95,Alpine Police Department,BERGEN,NJ0020200
+96,Hasbrouck Heights Police Department,BERGEN,NJ0022500
+97,Readington Township Police Department,HUNTERDON,NJ0102200
+98,Ramsey Police Department,BERGEN,NJ0024800
+99,Vernon Township Police Department,SUSSEX,NJ0192200
+100,Aberdeen Township Police Department,MONMOUTH,NJ0133000
+101,Newfield Police Department,GLOUCESTER,NJ0081300
+102,Clementon Police Department,CAMDEN,NJ0041000
+103,Springfield Township Police Department,BURLINGTON,NJ0033500
+104,Edgewater Park Township Police Department,BURLINGTON,NJ0031200
+105,Rumson Police Department,MONMOUTH,NJ0134200
+106,Buena Police Department,ATLANTIC,NJ0010400
+107,Trenton Police Department,MERCER,NJ0111100
+108,Woodland Park Police Department,PASSAIC,NJ0161600
+109,Bedminster Township Police Department,SOMERSET,NJ0180100
+110,North Caldwell Police Department,ESSEX,NJ0071500
+111,Lindenwold Police Department,CAMDEN,NJ0042200
+112,Prosecutor: Middlesex County,MIDDLESEX,NJ0128900
+113,South Amboy Police Department,MIDDLESEX,NJ0122000
+114,Manchester Township Police Department,OCEAN,NJ0151800
+115,North Wildwood Police Department,CAPE MAY,NJ0050700
+116,New Milford Police Department,BERGEN,NJ0023800
+117,Englewood Police Department,BERGEN,NJ0021500
+118,Frenchtown Police Department,HUNTERDON,NJ0101100
+119,Lower Alloways Creek Township Police Department,SALEM,NJ0170400
+120,Dover Police Department,MORRIS,NJ0140900
+121,Woodbury Heights Police Department,GLOUCESTER,NJ0082300
+122,Gloucester County Sheriff's Office,GLOUCESTER,NJ0080000
+123,"Greenwich Township, Warren County Police Department",WARREN,NJ0210700
+124,Palisades Interstate Parkway,BERGEN,NJNPIPP00
+125,Hardyston Township Police Department,SUSSEX,NJ0191100
+126,Linden Police Department,UNION,NJ0200900
+127,Wall Township Police Department,MONMOUTH,NJ0135200
+128,Mount Holly Township Police Department,BURLINGTON,NJ0032400
+129,Mullica Township Police Department,ATLANTIC,NJ0011700
+130,North Haledon Police Department,PASSAIC,NJ0160600
+131,Montgomery Township Police Department,SOMERSET,NJ0181300
+132,Bloomfield Police Department,ESSEX,NJ0070200
+133,Voorhees Township Police Department,CAMDEN,NJ0043400
+134,Collingswood Police Department,CAMDEN,NJ0041100
+135,Union City Police Department,HUDSON,NJ0091000
+136,Bergenfield Police Department,BERGEN,NJ0020300
+137,Toms River Township Police Department,OCEAN,NJ0150700
+138,Ridgefield Police Department,BERGEN,NJ0024900
+139,Haworth Police Department,BERGEN,NJ0022600
+140,Hunterdon County Sheriff's Office,HUNTERDON,NJ0100000
+141,Woodstown Police Department,SALEM,NJ0171500
+142,Phillipsburg Police Department,WARREN,NJ0211900
+143,National Park Police Department,GLOUCESTER,NJ0081200
+144,Sussex County Sheriff's Office,SUSSEX,NJ0190000
+145,Princeton  Police Department,MERCER,NJ0111000
+146,Evesham Township Police Department,BURLINGTON,NJ0031300
+147,William Paterson University,PASSAIC,NJ0161700
+148,Bernards Township Police Department,SOMERSET,NJ0180200
+149,Middle Township Police Department,CAPE MAY,NJ0050600
+150,Mantoloking Police Department,OCEAN,NJ0151900
+151,Magnolia Police Department,CAMDEN,NJ0042300
+152,North Arlington Police Department,BERGEN,NJ0023900
+153,Middlesex County Sheriff's Office,MIDDLESEX,NJ0120000
+154,South River Police Department,MIDDLESEX,NJ0122300
+155,Englewood Cliffs Police Department,BERGEN,NJ0021600
+156,Pennsville Township Police Department,SALEM,NJ0170500
+157,State Police: Morris County,MORRIS,NJ014SP00
+158,Washington Police Department,WARREN,NJ0212100
+159,Keansburg Police Department,MONMOUTH,NJ0132100
+160,Woodbury Police Department,GLOUCESTER,NJ0082200
+161,Hopatcong Police Department,SUSSEX,NJ0191200
+162,Camden County Sheriff's Office,CAMDEN,NJ0040000
+163,Mount Laurel Township Police Department,BURLINGTON,NJ0032500
+164,Beverly Police Department,BURLINGTON,NJ0030200
+165,Northfield Police Department,ATLANTIC,NJ0011800
+166,Ewing Township Police Department,MERCER,NJ0110200
+167,Long Hill Township Police Department,MORRIS,NJ0143000
+168,Union County Sheriff's Office,UNION,NJ0200000
+169,North Plainfield Police Department,SOMERSET,NJ0181400
+170,Belleville Police Department,ESSEX,NJ0070100
+171,Cherry Hill Township Police Department,CAMDEN,NJ0041200
+172,Bogota Police Department,BERGEN,NJ0020400
+173,Waterford Township Police Department,CAMDEN,NJ0043500
+174,Middlesex Police Department,MIDDLESEX,NJ0121100
+175,Hillsdale Police Department,BERGEN,NJ0022700
+176,Passaic Police Department,PASSAIC,NJ0160700
+177,Clinton Police Department,HUNTERDON,NJ0100500
+178,Monroe Township Police Department,GLOUCESTER,NJ0081100
+179,Fieldsboro Police Department,BURLINGTON,NJ0031400
+180,Stevens Institute of Technology,HUDSON,NJ009149E
+181,West Windsor Township Police Department,MERCER,NJ0111300
+182,Sea Girt Police Department,MONMOUTH,NJ0134400
+183,Lower Township Police Department,CAPE MAY,NJ0050500
+184,Plainfield Police Department,UNION,NJ0201200
+185,Bernardsville Police Department,SOMERSET,NJ0180300
+186,Montclair Police Department,ESSEX,NJ0071300
+187,Fair Lawn Police Department,BERGEN,NJ0021700
+188,Merchantville Police Department,CAMDEN,NJ0042400
+189,South Plainfield Police Department,MIDDLESEX,NJ0122200
+190,Pohatcong Township Police Department,WARREN,NJ0212000
+191,Vineland Police Department,CUMBERLAND,NJ0061400
+192,Westville Police Department,GLOUCESTER,NJ0082100
+193,Interlaken Police Department,MONMOUTH,NJ0132000
+194,Lambertville Police Department,HUNTERDON,NJ0101700
+195,Audubon Police Department,CAMDEN,NJ0040100
+196,Prosecutor: Warren County,WARREN,NJ0218900
+197,New Hanover Township Police Department,BURLINGTON,NJ0032600
+198,Wyckoff Township Police Department,BERGEN,NJ0027000
+199,Bordentown Police Department,BURLINGTON,NJ0030300
+200,Pleasantville Police Department,ATLANTIC,NJ0011900
+201,State Park Police,N/A,NJ0225400
+202,East Windsor Township Police Department,MERCER,NJ0110100
+203,Essex County Sheriff's Office,ESSEX,NJ0070000
+204,Peapack and Gladstone Police Department,SOMERSET,NJ0181500
+205,Harvey Cedars Police Department,OCEAN,NJ0150900
+206,Ho-Ho-Kus Police Department,BERGEN,NJ0022800
+207,Carlstadt Police Department,BERGEN,NJ0020500
+208,Winslow Township Police Department,CAMDEN,NJ0043600
+209,Gibbsboro Police Department,CAMDEN,NJ0041300
+210,Metuchen Police Department,MIDDLESEX,NJ0121000
+211,Raritan Police Department,SOMERSET,NJ0181600
+212,Paterson Police Department,PASSAIC,NJ0160800
+213,Middletown Township Police Department,MONMOUTH,NJ0133100
+214,Mantua Township Police Department,GLOUCESTER,NJ0081000
+215,Andover Township Police Department,SUSSEX,NJ0190200
+216,Clinton Township Police Department,HUNTERDON,NJ0100600
+217,Florence Township Police Department,BURLINGTON,NJ0031500
+218,Egg Harbor City Police Department,ATLANTIC,NJ0010700
+219,Prosecutor: Monmouth County,MONMOUTH,NJ0138900
+220,Sea Bright Police Department,MONMOUTH,NJ0134300
+221,Robbinsville Township Police Department,MERCER,NJ0111200
+222,Westampton Township Police Department,BURLINGTON,NJ0033800
+223,Bound Brook Police Department,SOMERSET,NJ0180400
+224,New Providence Police Department,UNION,NJ0201100
+225,Prosecutor: Hudson County,HUDSON,NJ0098900
+226,Millburn Township Police Department,ESSEX,NJ0071200
+227,Fairview Police Department,BERGEN,NJ0021800
+228,High Bridge Police Department,HUNTERDON,NJ0101400
+229,Mount Ephraim Police Department,CAMDEN,NJ0042500
+230,Branchburg Township Police Department,SOMERSET,NJ0180500
+231,Cranbury Township Police Department,MIDDLESEX,NJ0120200
+232,Little Silver Police Department,MONMOUTH,NJ0132300
+233,Monmouth County Sheriff's Office,MONMOUTH,NJ0130000
+234,Stafford Township Police Department,OCEAN,NJ0153000
+235,Woodbridge Township Police Department,MIDDLESEX,NJ0122500
+236,West Deptford Township Police Department,GLOUCESTER,NJ0082000
+237,Audubon Park Police Department,CAMDEN,NJ0040200
+238,Prosecutor: Gloucester County,GLOUCESTER,NJ0088900
+239,Bordentown Township Police Department,BURLINGTON,NJ0030400
+240,North Hanover Township Police Department,BURLINGTON,NJ0032700
+241,State Police: Warren County,WARREN,NJ021SP00
+242,Neptune Township Police Department,MONMOUTH,NJ0133400
+243,Randolph Township Police Department,MORRIS,NJ0143200
+244,West Orange Police Department,ESSEX,NJ0072200
+245,Hightstown Police Department,MERCER,NJ0110400
+246,Winfield Township Police Department,UNION,NJ0202100
+247,Wildwood Crest Police Department,CAPE MAY,NJ0051500
+248,Leonia Police Department,BERGEN,NJ0022900
+249,West Amwell Township Police Department,HUNTERDON,NJ0102600
+250,Gloucester City Police Department,CAMDEN,NJ0041400
+251,Woodlynne Police Department,CAMDEN,NJ0043700
+252,"Monroe Township, Middlesex County Police Department",MIDDLESEX,NJ0121300
+253,Cliffside Park Police Department,BERGEN,NJ0020600
+254,Eatontown Police Department,MONMOUTH,NJ0131100
+255,Pompton Lakes Police Department,PASSAIC,NJ0160900
+256,Bridgeton Police Department,CUMBERLAND,NJ0060100
+257,Egg Harbor Township Police Department,ATLANTIC,NJ0010800
+258,Newton Police Department,SUSSEX,NJ0191500
+259,Mountainside Police Department,UNION,NJ0201000
+260,Maplewood Township Police Department,ESSEX,NJ0071100
+261,Cape May Point Police Department,CAPE MAY,NJ0050300
+262,Montville Township Police Department,MORRIS,NJ0142100
+263,Fort Lee Police Department,BERGEN,NJ0021900
+264,Holland Township Police Department,HUNTERDON,NJ0101500
+265,Bridgewater Township Police Department,SOMERSET,NJ0180600
+266,Oaklyn Police Department,CAMDEN,NJ0042600
+267,Spotswood Police Department,MIDDLESEX,NJ0122400
+268,Carteret Police Department,MIDDLESEX,NJ0120100
+269,Keyport Police Department,MONMOUTH,NJ0132200
+270,Barrington Police Department,CAMDEN,NJ0040300
+271,Byram Township Police Department,SUSSEX,NJ0190400
+272,State Police: Hudson County,HUDSON,NJ009SP00
+273,"Hamilton Township, Mercer County Police Department",MERCER,NJ0110300
+274,Burlington Police Department,BURLINGTON,NJ0030500
+275,Monmouth Beach Police Department,MONMOUTH,NJ0133300
+276,Brookdale Community College,MONMOUTH,NJ0135600
+277,Palmyra Police Department,BURLINGTON,NJ0032800
+278,West Caldwell Township Police Department,ESSEX,NJ0072100
+279,Westfield Police Department,UNION,NJ0202000
+280,Wildwood Police Department,CAPE MAY,NJ0051400
+281,Pequannock Township Police Department,MORRIS,NJ0143100
+282,Prosecutor: Union County,UNION,NJ0208900
+283,Califon Police Department,HUNTERDON,NJ0100400
+284,Gloucester Township Police Department,CAMDEN,NJ0041500
+285,Milltown Police Department,MIDDLESEX,NJ0121200
+286,Closter Police Department,BERGEN,NJ0020700
+287,Somerville Police Department,SOMERSET,NJ0181800
+288,Prosecutor: Morris County,MORRIS,NJ0148900
+289,Deal Police Department,MONMOUTH,NJ0131000
+290,Cumberland County Sheriff's Office,CUMBERLAND,NJ0060000
+291,Teaneck Township Police Department,BERGEN,NJ0026000
+292,Ogdensburg Police Department,SUSSEX,NJ0191600
+293,Penns Grove Police Department,SALEM,NJ0170800
+294,Shrewsbury Police Department,MONMOUTH,NJ0134500
+295,Willingboro Township Police Department,BURLINGTON,NJ0031700
+296,Mine Hill Township Police Department,MORRIS,NJ0142000
+297,Livingston Township Police Department,ESSEX,NJ0071000
+298,Port Authority of New York and New Jersey,N/A,NJNYPOA00
+299,State Police: Ocean County,OCEAN,NJ015SP00
+300,Cape May Police Department,CAPE MAY,NJ0050200
+301,Alpha Police Department,WARREN,NJ0210200
+302,Pennsauken Township Police Department,CAMDEN,NJ0042700
+303,Long Branch Police Department,MONMOUTH,NJ0132500
+304,Allentown Police Department,MONMOUTH,NJ0130200
+305,Far Hills Police Department,SOMERSET,NJ0180700
+306,East Brunswick Township Police Department,MIDDLESEX,NJ0120400
+307,Tuckerton Police Department,OCEAN,NJ0153200
+308,Bellmawr Police Department,CAMDEN,NJ0040400
+309,Ridgefield Park Police Department,BERGEN,NJ0025000
+310,Pemberton Police Department,BURLINGTON,NJ0032900
+311,Burlington Township Police Department,BURLINGTON,NJ0030600
+312,Rockaway Police Department,MORRIS,NJ0143400
+313,Hopewell Township Police Department,MERCER,NJ0110600
+314,Tinton Falls Police Department,MONMOUTH,NJ0133600
+315,Prosecutor: Essex County,ESSEX,NJ0078900
+316,Florham Park Police Department,MORRIS,NJ0141100
+317,Verona Police Department,ESSEX,NJ0072000
+318,West Wildwood Police Department,CAPE MAY,NJ0051300
+319,Elizabeth Police Department,UNION,NJ0200400
+320,Haddon Township Police Department,CAMDEN,NJ0041600
+321,Cresskill Police Department,BERGEN,NJ0020800
+322,South Bound Brook Police Department,SOMERSET,NJ0181900
+323,Fair Haven Police Department,MONMOUTH,NJ0131300
+324,Rutgers University: Camden,CAMDEN,NJ0043900
+325,North Brunswick Township Police Department,MIDDLESEX,NJ0121500
+326,Flemington Police Department,HUNTERDON,NJ0100900
+327,Ocean Gate Police Department,OCEAN,NJ0152100
+328,Tenafly Police Department,BERGEN,NJ0026100
+329,Lumberton Township Police Department,BURLINGTON,NJ0031800
+330,Morris Plains Police Department,MORRIS,NJ0142300
+331,Division of Fish and Wildlife,N/A,NJ0111700
+332,New Jersey Transit Police,N/A,NJ0073200
+333,Spring Lake Police Department,MONMOUTH,NJ0134800
+334,Morris County Sheriff's Office,MORRIS,NJ0140000
+335,Scotch Plains Township Police Department,UNION,NJ0201600
+336,Avalon Police Department,CAPE MAY,NJ0050100
+337,"Franklin Township, Somerset County Police Department",SOMERSET,NJ0180800
+338,Pine Hill Police Department,CAMDEN,NJ0042800
+339,Loch Arbour Police Department,MONMOUTH,NJ0132400
+340,Middlesex County College,MIDDLESEX,NJ0122600
+341,Dunellen Police Department,MIDDLESEX,NJ0120300
+342,Allenhurst Police Department,MONMOUTH,NJ0130100
+343,Surf City Police Department,OCEAN,NJ0153100
+344,Berlin Police Department,CAMDEN,NJ0040500
+345,Millville Police Department,CUMBERLAND,NJ0061000
+346,Ridgewood Police Department,BERGEN,NJ0025100
+347,State Police: Atlantic County,ATLANTIC,NJ001SP00
+348,Franklin Police Department,SUSSEX,NJ0190600
+349,Chesterfield Township Police Department,BURLINGTON,NJ0030700
+350,Neptune City Police Department,MONMOUTH,NJ0133500
+351,Riverdale Police Department,MORRIS,NJ0143300
+352,State Police: Gloucester County,GLOUCESTER,NJ008SP00
+353,East Hanover Township Police Department,MORRIS,NJ0141000
+354,Hopewell Police Department,MERCER,NJ0110500
+355,Cranford Township Police Department,UNION,NJ0200300
+356,West Cape May Police Department,CAPE MAY,NJ0051200
+357,Demarest Police Department,BERGEN,NJ0020900
+358,Haddonfield Police Department,CAMDEN,NJ0041700
+359,Park Police: Union County,UNION,NJ0209100
+360,Prosecutor: Ocean County,OCEAN,NJ0158900
+361,Englishtown Police Department,MONMOUTH,NJ0131200
+362,New Brunswick Police Department,MIDDLESEX,NJ0121400
+363,Teterboro Police Department,BERGEN,NJ0026200
+364,"Ocean Township, Ocean County Police Department",OCEAN,NJ0152000
+365,State Police: Passaic County,PASSAIC,NJ016SP00
+366,Sparta Township Police Department,SUSSEX,NJ0191800
+367,"Mansfield Township, Burlington County Police Department",BURLINGTON,NJ0031900
+368,Secaucus Police Department,HUDSON,NJ0090900
+369,Lake Como Police Department,MONMOUTH,NJ0134700
+370,Morris Township Police Department,MORRIS,NJ0142200
+371,Essex County College,ESSEX,NJ0073100
+372,Cape May County Sheriff's Office,CAPE MAY,NJ0050000
+373,Roselle Park Police Department,UNION,NJ0201500
+374,Green Brook Township Police Department,SOMERSET,NJ0180900
+375,Jackson Township Police Department,OCEAN,NJ0151100
+376,Warren County Sheriff's Office,WARREN,NJ0210000
+377,Manasquan Police Department,MONMOUTH,NJ0132700
+378,Colts Neck Township Police Department,MONMOUTH,NJ0130400
+379,Pine Valley Police Department,CAMDEN,NJ0042900
+380,Berlin Township Police Department,CAMDEN,NJ0040600
+381,Helmetta Police Department,MIDDLESEX,NJ0120600
+382,River Edge Police Department,BERGEN,NJ0025200
+383,Roxbury Township Police Department,MORRIS,NJ0143600
+384,Harding Township Police Department,MORRIS,NJ0141300
+385,Prosecutor: Passaic County,PASSAIC,NJ0168900
+386,Cinnaminson Township Police Department,BURLINGTON,NJ0030800
+387,Oceanport Police Department,MONMOUTH,NJ0133800
+388,Clark Township Police Department,UNION,NJ0200200
+389,Pennington Police Department,MERCER,NJ0110800
+390,Plumsted Township Police Department,OCEAN,NJ0152300
+391,Ocean County Sheriff's Office,OCEAN,NJ0150000
+392,Independence Township Police Department,WARREN,NJ0211200
+393,Freehold Police Department,MONMOUTH,NJ0131500
+394,Haddon Heights Police Department,CAMDEN,NJ0041800
+395,Delanco Township Police Department,BURLINGTON,NJ0030900
+396,Piscataway Township Police Department,MIDDLESEX,NJ0121700
+397,State Police: Essex County,ESSEX,NJ007SP00
+398,Prosecutor: Cumberland County,CUMBERLAND,NJ0068900
+399,Upper Saddle River Police Department,BERGEN,NJ0026300
+400,Delaware Township Police Department,HUNTERDON,NJ0100700
+401,Northvale Police Department,BERGEN,NJ0024000
+402,Boonton Township Police Department,MORRIS,NJ0140200
+403,Stanhope Police Department,SUSSEX,NJ0191900
+404,Mountain Lakes Police Department,MORRIS,NJ0142500
+405,North Bergen Township Police Department,HUDSON,NJ0090800
+406,Rutgers University: Newark,ESSEX,NJ0073000
+407,Roselle Police Department,UNION,NJ0201400
+408,Department of Human Services,MERCER,NJ0111900
+409,Barnegat Township Police Department,OCEAN,NJ0153300
+410,Manalapan Township Police Department,MONMOUTH,NJ0132600
+411,Asbury Park Police Department,MONMOUTH,NJ0130300
+412,Brooklawn Police Department,CAMDEN,NJ0040700
+413,River Vale Township Police Department,BERGEN,NJ0025300
+414,Edison Township Police Department,MIDDLESEX,NJ0120500
+415,"Washington Township, Warren County Police Department",WARREN,NJ0212200
+416,Island Heights Police Department,OCEAN,NJ0151000
+417,Little Ferry Police Department,BERGEN,NJ0023000
+418,Lebanon Township Police Department,HUNTERDON,NJ0101900
+419,State Police: Salem County,SALEM,NJ017SP00
+420,Hanover Township Police Department,MORRIS,NJ0141200
+421,Rockaway Township Police Department,MORRIS,NJ0143500
+422,Hi-Nella Police Department,CAMDEN,NJ0041900
+423,"Lawrence Township, Mercer County Police Department",MERCER,NJ0110700
+424,Berkeley Heights Township Police Department,UNION,NJ0200100
+425,"Ocean Township, Monmouth County Police Department",MONMOUTH,NJ0133700
+426,Kean University,UNION,NJ0202400
+427,Stone Harbor Police Department,CAPE MAY,NJ0051000
+428,Pine Beach Police Department,OCEAN,NJ0152200
+429,Prosecutor: Atlantic County,ATLANTIC,NJ0018900
+430,Newark Police Department,ESSEX,NJNPD0000
+431,Waldwick Police Department,BERGEN,NJ0026400
+432,Perth Amboy Police Department,MIDDLESEX,NJ0121600
+433,Norwood Police Department,BERGEN,NJ0024100
+434,Morristown Police Department,MORRIS,NJ0142400
+435,Boonton Police Department,MORRIS,NJ0140100
+436,Logan Township Police Department,GLOUCESTER,NJ0080900
+437,Camden County Police Department,CAMDEN,NJ0040800
+438,The College of New Jersey,MERCER,NJ0111800
+439,Kearny Police Department,HUDSON,NJ0090700
+440,Spring Lake Heights Police Department,MONMOUTH,NJ0134900
+441,Rahway Police Department,UNION,NJ0201300
+442,State Police: Bergen County,BERGEN,NJ002SP00
+443,Prosecutor: Salem County,SALEM,NJ0178900
+444,Lakehurst Police Department,OCEAN,NJ0151300
+445,Matawan Police Department,MONMOUTH,NJ0132900
+446,Avon-by-the-Sea Police Department,MONMOUTH,NJ0130600
+447,Rochelle Park Township Police Department,BERGEN,NJ0025400
+448,Lodi Police Department,BERGEN,NJ0023100
+449,Jamesburg Police Department,MIDDLESEX,NJ0120800
+450,"Washington Township, Morris County Police Department",MORRIS,NJ0143800
+451,Kenilworth Police Department,UNION,NJ0200800
+452,Wenonah Police Department,GLOUCESTER,NJ0081900
+453,Hamburg Police Department,SUSSEX,NJ0190900
+454,Kinnelon Police Department,MORRIS,NJ0141500
+455,Park Police: Morris County,MORRIS,NJ0149100
+456,Point Pleasant Beach Police Department,OCEAN,NJ0152500
+457,Bay Head Police Department,OCEAN,NJ0150200
+458,Highlands Police Department,MONMOUTH,NJ0131700
+459,Oakland Police Department,BERGEN,NJ0024200
+460,Wallington Police Department,BERGEN,NJ0026500
+461,Sayreville Police Department,MIDDLESEX,NJ0121900
+462,Prosecutor: Hunterdon County,HUNTERDON,NJ0108900
+463,Prospect Park Police Department,PASSAIC,NJ0161000
+464,Mount Olive Township Police Department,MORRIS,NJ0142700
+465,State Police: Cumberland County,CUMBERLAND,NJ006SP00
+466,Prosecutor: Cape May County,CAPE MAY,NJ0058900
+467,State Police: Hunterdon County,HUNTERDON,NJ010SP00
+468,Harrison Township Police Department,GLOUCESTER,NJ0080800
+469,Chesilhurst Police Department,CAMDEN,NJ0040900
+470,Chatham Police Department,MORRIS,NJ0140400
+471,Somers Point Police Department,ATLANTIC,NJ0012100
+472,Jersey City Police Department,HUDSON,NJ0090600
+473,Lacey Township Police Department,OCEAN,NJ0151200
+474,Marlboro Township Police Department,MONMOUTH,NJ0132800
+475,Atlantic Highlands Police Department,MONMOUTH,NJ0130500
+476,Rockleigh Police Department,BERGEN,NJ0025500
+477,Lyndhurst Township Police Department,BERGEN,NJ0023200
+478,Highland Park Police Department,MIDDLESEX,NJ0120700
+479,State Police: Somerset County,SOMERSET,NJ018SP00
+480,Hillside Township Police Department,UNION,NJ0200700
+481,Passaic County Sheriff's Office,PASSAIC,NJ0160000
+482,"Washington Township, Gloucester County Police Department",GLOUCESTER,NJ0081800
+483,Jefferson Township Police Department,MORRIS,NJ0141400
+484,Galloway Township Police Department,ATLANTIC,NJ0011100
+485,Hazlet Township Police Department,MONMOUTH,NJ0133900
+486,Point Pleasant Police Department,OCEAN,NJ0152400
+487,Barnegat Light Police Department,OCEAN,NJ0150100
+488,Freehold Township Police Department,MONMOUTH,NJ0131600
+489,Irvington Police Department,ESSEX,NJ0070900
+490,Raritan Township Police Department,HUNTERDON,NJ0102100
+491,Prosecutor: Bergen County,BERGEN,NJ0028900
+492,"Washington Township, Bergen County Police Department",BERGEN,NJ0026600
+493,Old Tappan Police Department,BERGEN,NJ0024300
+494,Franklin Lakes Police Department,BERGEN,NJ0022000
+495,Princeton University,MERCER,NJ0115000
+496,Plainsboro Township Police Department,MIDDLESEX,NJ0121800
+497,Oxford Township Police Department,WARREN,NJ0211700
+498,State Police: Burlington County,BURLINGTON,NJ003SP00
+499,Ringwood Police Department,PASSAIC,NJ0161100
+500,Union Township Police Department,UNION,NJ0201900
+501,"Greenwich Township, Gloucester County Police Department",GLOUCESTER,NJ0080700
+502,Mount Arlington Police Department,MORRIS,NJ0142600
+503,Butler Police Department,MORRIS,NJ0140300
+504,Ventnor City Police Department,ATLANTIC,NJ0012200
+505,Hoboken Police Department,HUDSON,NJ0090500
+506,Pemberton Township Police Department,BURLINGTON,NJ0033000
+507,Blairstown Township Police Department,WARREN,NJ0210400
+508,Bradley Beach Police Department,MONMOUTH,NJ0130800
+509,State Police: Cape May County,CAPE MAY,NJ005SP00
+510,South Orange Police Department,ESSEX,NJ0071900
+511,Lavallette Police Department,OCEAN,NJ0151500
+512,Rutherford Police Department,BERGEN,NJ0025600
+513,Dumont Police Department,BERGEN,NJ0021000
+514,Mahwah Township Police Department,BERGEN,NJ0023300
+515,Madison Police Department,MORRIS,NJ0141700
+516,Garwood Police Department,UNION,NJ0200600
+517,Bloomingdale Police Department,PASSAIC,NJ0160100
+518,Swedesboro Police Department,GLOUCESTER,NJ0081700
+519,"Hamilton Township, Atlantic County Police Department",ATLANTIC,NJ0011200
+520,Howell Township Police Department,MONMOUTH,NJ0131900
+521,Glen Ridge Police Department,ESSEX,NJ0070800
+522,State Police: Mercer County,MERCER,NJ011SP00
+523,Seaside Park Police Department,OCEAN,NJ0152700
+524,Beachwood Police Department,OCEAN,NJ0150400
+525,Westwood Police Department,BERGEN,NJ0026700
+526,Garfield Police Department,BERGEN,NJ0022100
+527,Oradell Police Department,BERGEN,NJ0024400
+528,"Mansfield Township, Warren County Police Department",WARREN,NJ0211600
+529,Summit Police Department,UNION,NJ0201800
+530,Chester Police Department,MORRIS,NJ0140600
+531,Glassboro Police Department,GLOUCESTER,NJ0080600
+532,Totowa Police Department,PASSAIC,NJ0161200
+533,Parsippany-Troy Hills Township Police Department,MORRIS,NJ0142900
+534,Prosecutor: Somerset County,SOMERSET,NJ0188900
+535,Atlantic County Sheriff's Office,ATLANTIC,NJ0010000
+536,Warren Township Police Department,SOMERSET,NJ0182000
+537,Riverside Township Police Department,BURLINGTON,NJ0033100
+538,Harrison Police Department,HUDSON,NJ0090400
+539,Lakewood Township Police Department,OCEAN,NJ0151400
+540,Roseland Police Department,ESSEX,NJ0071800
+541,Belvidere Police Department,WARREN,NJ0210300
+542,East Newark Police Department,HUDSON,NJ0090200
+543,Belmar Police Department,MONMOUTH,NJ0130700
+544,Saddle Brook Township Police Department,BERGEN,NJ0025700
+545,Maywood Police Department,BERGEN,NJ0023400
+546,Elmwood Park Police Department,BERGEN,NJ0021100
+547,Salem County Sheriff's Office,SALEM,NJ0170000
+548,Old Bridge Township Police Department,MIDDLESEX,NJ0120900
+549,Lincoln Park Police Department,MORRIS,NJ0141600
+550,South Harrison Township Police Department,GLOUCESTER,NJ0081600
+551,Clifton Police Department,PASSAIC,NJ0160200
+552,Wharton Police Department,MORRIS,NJ0143900
+553,Prosecutor: Burlington County,BURLINGTON,NJ0038900
+554,Hammonton Police Department,ATLANTIC,NJ0011300
+555,Fanwood Police Department,UNION,NJ0200500
+556,Maple Shade Township Police Department,BURLINGTON,NJ0032000
+557,Lopatcong Township Police Department,WARREN,NJ0211500
+558,Essex Fells Police Department,ESSEX,NJ0070700
+559,Beach Haven Police Department,OCEAN,NJ0150300
+560,Holmdel Township Police Department,MONMOUTH,NJ0131800
+561,Woodcliff Lake Police Department,BERGEN,NJ0026800
+562,Seaside Heights Police Department,OCEAN,NJ0152600
+563,Palisades Park Police Department,BERGEN,NJ0024500
+564,Glen Rock Police Department,BERGEN,NJ0022200
+565,Runnemede Police Department,CAMDEN,NJ0043000
+566,Netcong Police Department,MORRIS,NJ0142800
+567,Chatham Township Police Department,MORRIS,NJ0140500
+568,Springfield Police Department,UNION,NJ0201700
+569,"Franklin Township, Gloucester County Police Department",GLOUCESTER,NJ0080500
+570,Wanaque Police Department,PASSAIC,NJ0161300
+571,Stockton University,ATLANTIC,NJ0012400
+572,Absecon Police Department,ATLANTIC,NJ0010100
+573,Riverton Police Department,BURLINGTON,NJ0033200
+574,Guttenberg Police Department,HUDSON,NJ0090300
+575,Watchung Police Department,SOMERSET,NJ0182100
